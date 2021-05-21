@@ -1,0 +1,39 @@
+
+#banner{
+    text-align: center;
+    height:155px;
+    background-image: linear-gradient(80deg, #15cccc,#c4e2f3,#dd9bc7,#e95bba,pink, rgb(248, 218, 239));
+}
+body{
+    background-color: black !important;
+  }
+  
+#esquerda{
+    width: 500px;
+    color: blanchedalmond;
+    float: left;
+    padding-left:30px ;
+}
+
+#carinag{
+    margin-top: 50px;
+}
+
+#objetivo,#resumo,#formacao,#expP,#cursos,#IdFe,#imgLin,#imgLin{
+margin-top: 40px;
+}
+
+h3,#carinag{
+    border-bottom: 5px solid pink;
+}
+
+#direita{
+   padding-top: 30px;
+   padding-right: 30px;
+   float: right;
+   color: blanchedalmond;
+}
+#icon{
+    margin-top: 140px;
+    cursor: pointer;
+}
